@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Relay",
+      "hasCanvas": false,
+      "bodyTextLen": 2532,
+      "bodyTextHash": "1ea6a2821068f9466e6dc4774d8cc08be959069d9542b6318f73763724457aa1",
+      "bodyTextPrefix": "Relay Нордлайн · прод Входящие 46 Очереди Сценарии Файлы Каналы ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Relay",
+      "hasCanvas": false,
+      "bodyTextLen": 852,
+      "bodyTextHash": "b6cdbb0e443a4b113b0ff61be3adb1e4ba0fbdb9ad39b3adffb0cd331f11c241",
+      "bodyTextPrefix": "Анна Козлова сейчас Клиент на линии. Есть трекинг? Трекинг заказ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

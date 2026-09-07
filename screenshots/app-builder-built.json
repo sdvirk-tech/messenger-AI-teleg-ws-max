@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Relay",
+      "hasCanvas": false,
+      "bodyTextLen": 2129,
+      "bodyTextHash": "6372043cc53ee57a8f88ae6b020087c33f3ce0c9519c1750e4426bb3d4ce5cf6",
+      "bodyTextPrefix": "Relay Нордлайн · прод Входящие 7 Очереди Сценарии Файлы Каналы M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Relay",
+      "hasCanvas": false,
+      "bodyTextLen": 765,
+      "bodyTextHash": "7bad29724c35541a80976332cf0b2cfb5dc76108ce85ffda53925c3fb8e4eea9",
+      "bodyTextPrefix": "Ольга · бухгалтерия сейчас Подтвердите получение акта КС-2 по ск",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (2532 -> 2129 chars, hash mismatch)",
+    "mobile: body text changed (852 -> 765 chars, hash mismatch)"
+  ]
+}

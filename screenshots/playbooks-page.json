@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/playbooks",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Relay",
+      "hasCanvas": false,
+      "bodyTextLen": 1478,
+      "bodyTextHash": "1a742e15639faa33abb06a35f0843e6ac8c520180749f682ed2f24adef9db50c",
+      "bodyTextPrefix": "Relay Нордлайн · прод Входящие 35 Очереди Сценарии Файлы Каналы ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/playbooks-page.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Relay",
+      "hasCanvas": false,
+      "bodyTextLen": 1089,
+      "bodyTextHash": "e4fd7e7b45358b7744efd7e39089c74cce24c1c04db180b9dbae8cc4fa8f666c",
+      "bodyTextPrefix": "Справочник бесед Тип беседы задаёт промпт Grok. Статью знаний мо",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/playbooks-page-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/playbooks-page.json"
+}

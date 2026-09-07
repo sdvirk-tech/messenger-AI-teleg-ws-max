@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/queues",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Relay",
+      "hasCanvas": false,
+      "bodyTextLen": 3558,
+      "bodyTextHash": "606c7fe5d7cdd0597a270e65da1963f0fce6cb8766c674ae53e31c281386265c",
+      "bodyTextPrefix": "Relay Нордлайн · прод Входящие 19 Очереди Файлы Каналы MCP MCP о",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\n%s%s https://react.dev/link/hydration-mismatch \n\n  ...\n    <CatchBoundary getResetKey={function getResetKey} errorComponent={function AppErrorComponent} ...>\n      <SafeFragment fallback={function fallback}>\n        <MatchInnerImpl match={{id:\"/queue...\", ...}}>\n          <Lazy>\n            <QueuesPage>\n              <AppShell title=\"Очереди и ...\">\n                <div className=\"flex h-dvh...\">\n                  <aside>\n                  <div className=\"flex min-w...\">\n                    <header>\n                    <div className=\"min-h-0 fl...\">\n                      <QueuesView snap={{now:\"2026-...\", ...}}>\n                        <div className=\"h-full min...\">\n                          <div>\n                          <section className=\"border-t b...\">\n                            <div>\n                            <form>\n                            <div className=\"space-y-2 ...\">\n                              <article>\n                              <article>\n                              <article>\n                              <article>\n                              <article>\n                              <article>\n                              <article>\n                              <article>\n                              <article className=\"rounded-xl...\">\n                                <div className=\"flex items...\">\n                                  <span>\n                                  <div className=\"min-w-0 fl...\">\n                                    <Input value=\"Ночь Telegram\" disabled={false} onChange={function onChange} ...>\n                                      <input\n                                        className=\"h-10 w-full rounded-md bg-elevated px-3 text-sm text-fg placeholder...\"\n                                        value=\"Ночь Telegram\"\n                                        disabled={false}\n                                        onChange={function onChange}\n                                        onBlur={function onBlur}\n-                                       style={{caret-color:\"transparent\"}}\n                                      >\n                                    <Input className=\"font-mono ...\" value=\"ночн|ночью...\" disabled={false} ...>\n                                      <input\n                                        className=\"h-10 w-full rounded-md bg-elevated px-3 text-fg placeholder:text-su...\"\n                                        value=\"ночн|ночью|после 22\"\n                                        disabled={false}\n                                        onChange={function onChange}\n                                        onBlur={function onBlur}\n-                                       style={{caret-color:\"transparent\"}}\n                                      >\n                                  ...\n                                ...\n                              <article className=\"rounded-xl...\">\n                                <div className=\"flex items...\">\n                                  <span>\n                                  <div className=\"min-w-0 fl...\">\n                                    <Input value=\"По умолчан...\" disabled={true} onChange={function onChange} ...>\n                                      <input\n                                        className=\"h-10 w-full rounded-md bg-elevated px-3 text-sm text-fg placeholder...\"\n                                        value=\"По умолчанию — поддержка\"\n                                        disabled={true}\n                                        onChange={function onChange}\n                                        onBlur={function onBlur}\n-                                       style={{caret-color:\"transparent\"}}\n                                      >\n                                    <Input className=\"font-mono ...\" value=\"*\" disabled={true} ...>\n                                      <input\n                                        className=\"h-10 w-full rounded-md bg-elevated px-3 text-fg placeholder:text-su...\"\n                                        value=\"*\"\n                                        disabled={true}\n                                        onChange={function onChange}\n                                        onBlur={function onBlur}\n-                                       style={{caret-color:\"transparent\"}}\n                                      >\n                                  ...\n                                ...\n                            <form className=\"rounded-xl...\" onSubmit={function onSubmit}>\n                              <div>\n                              <div className=\"grid gap-2...\">\n                                <Input name=\"name\" placeholder=\"Имя\">\n                                  <input\n                                    className=\"h-10 w-full rounded-md bg-elevated px-3 text-sm text-fg placeholder:tex...\"\n                                    name=\"name\"\n                                    placeholder=\"Имя\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                                <Input name=\"match\" className=\"font-mono ...\" placeholder=\"vip|срочно...\">\n                                  <input\n                                    className=\"h-10 w-full rounded-md bg-elevated px-3 text-fg placeholder:text-subtle...\"\n                                    name=\"match\"\n                                    placeholder=\"vip|срочно или *\"\n-                                   style={{caret-color:\"transparent\"}}\n                                  >\n                              ...\n                  ...\n"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/queues-page.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Relay",
+      "hasCanvas": false,
+      "bodyTextLen": 3510,
+      "bodyTextHash": "692603563e0f035adfdc0cb2f8f495d07051418ea19978a3e145fca2670fbc07",
+      "bodyTextPrefix": "Очереди и маршрутизация VIP 1 SLA 5 мин Алексей Морозов · VIP Ма",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/queues-page-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/queues-page.json"
+}
